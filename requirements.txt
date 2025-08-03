@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+openai
+pdfplumber
+pytesseract
+Pillow
+chromadb
+crewai
+tiktoken
+pydantic
